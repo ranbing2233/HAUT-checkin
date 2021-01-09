@@ -12,7 +12,7 @@
 2021.1.9 基于[原校内打卡脚本](https://github.com/themanforfree/EzCheckInSchool-MultiUser)修改,第一版校外打卡脚本发布
 
 
-## 使用方法  
+## 使用方法 
 
 首先，点击页面上方`Star`并`Fork`，此时你将得到复制的项目
 
@@ -71,6 +71,6 @@ Fork的项目主页->Action->I understand... 开启Actions
 
 https://github.com/themanforfree/EzCheckInSchool-MultiUser - 校内打卡
 
-https://github.com/zhongbr/wanmei_campus - 完美校园模拟登录
-
+https://github.com/zhongbr/wanmei_campus - 完美校园模拟登录 
+ 
 
